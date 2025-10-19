@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I used a NOT Gate on input 1 to output 1 and an AND Gate on input 5&6 to Output 5
 
 ## How to test
 
-Explain how to use your project
+To test it, run the simulation and have the switches turned in this sequential order. On, Off, On, Off, Off, On, Off, Off.
 
 ## External hardware
 
